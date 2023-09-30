@@ -1,6 +1,6 @@
 - 🧑‍🚀 Hi, I’m Kyle Kincaid | @kSqaured |
 - 🔥 I’m passionate about cyber securty and ethical hacking, with a focus on enhancing secuirty and protecting systems against potential vulnerabilities..
-- 🐍 Learning | Python | SIEM | 
+- 🐍 Learning | Python | SIEM | Algorithms | AI | Machine Learning | Problem Solving | 
 - ✳️ I’m looking forward to learning more about version control..
 - 🎓 Pursuing | BSCS | Cyber Security Engineering |
 - 📫 Reach me |  Discord: ksquared757 |
