@@ -3,7 +3,7 @@
 - 🐍 Learning | Python | SIEM | Algorithms | AI | Machine Learning | Problem Solving | 
 - ✳️ I’m looking forward to learning more about version control..
 - 🎓 Pursuing | BSCS | Cyber Security Engineering |
-- 📫 Reach me |  Discord: ksquared757 |
+- 📫 Reach me |  Discord: ksquared757 | Twitter: @kSquared757 |
 
 <!---
 kSqaured/kSqaured is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
